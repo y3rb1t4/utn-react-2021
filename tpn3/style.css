@@ -1,0 +1,17 @@
+body {
+  background-color: #00ff00;
+}
+
+#yellow-square {
+  margin: 75px 0 0 350px;
+  background-color: #fefd33;
+  width: 700px;
+  height: 700px;
+}
+
+.red-flower {
+  margin: 15%;
+  width: 500px;
+  height: 500px;
+  fill: #ff000a;
+}
